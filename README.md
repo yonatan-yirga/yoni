@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi, I'm Yonatan<br><br>** Software Engineer sharing about my journey and learnings in tech<br/> <br>**/I Studied [Software Engineer]  at the University of Debre Markos<br/> <br>**/I specialize in end-to-end development, designing user-friendly frontends and building powerful backend systems. My goal is to craft solutions that are both technically robust and visually appealing.<br/><br><br>**/Currently learning about data analytics and Machine learning [dataviz](https://pudding.cool/2018/08/pockets/)!<br/><br>**/[Magdeline's github stats](https://github.com/yonatan-yirga/yoni/edit/main/README.md)<br><br>
+# Hi, I'm Yonatan<br><br>** Software Engineer sharing about my journey and learnings in tech<br/> <br>**/I Studied [Software Engineer]  at the University of Debre Markos<br/> <br>**/I specialize in end-to-end development, designing user-friendly frontends and building powerful frontend website. My goal is to craft solutions that are both technically robust and visually appealing.<br/><br><br>**/Currently learning about data analytics and Machine learning [dataviz](https://pudding.cool/2018/08/pockets/)!<br/><br>**/[Magdeline's github stats](https://github.com/yonatan-yirga/yoni/edit/main/README.md)<br><br>
 
 
 ## 🌐 Socials:
